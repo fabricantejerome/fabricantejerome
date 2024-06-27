@@ -1,7 +1,20 @@
 ## Hey, I'm Jerome👋
- - I talk about Web Development
- - Helping ambitious aspiring web developers and career shifter to build their portfolio
- - Full Stack Developer 6+ years
+ - I talk about Web Development.
+ - Helping ambitious aspiring web developers and career shifter to build their career.
+ - Full Stack Developer 6+ years.
+
+ - Check out my [Typeshare](https://typeshare.co/jeromefabricante) to learn more what I write.
+ - Check out my [Medium](https://medium.com/@jeromejfabricante).
+
+## 🌱 I’m currently learning
+ - `Creating Ebook`
+ - `Digital Writing`
+
+
+## 🔭 I’m currently working on
+ - `Building an audience`
+ - `Publishing an short-form content`
+ - `Publishing an atomic essay`
 
 ## 📦 Toolbox
 
@@ -16,6 +29,13 @@
 **CMS:** `WordPress` 
 
 **Others:** `Scrum` `Confluence` `Jira` `Postman`
+
+## 📫 How to reach me:
+ - **LinkedIn** [here](https://www.linkedin.com/in/jerome-fabricante-%F0%9F%9A%A2-a55a9a137/)
+ - **Threads** [here](https://www.threads.net/@jeromejfabricante)
+ - **Gmail**: fabricantejerome@gmail.com
+
+**✨ Thanks for visiting my profile! ✨**
 <!--
 **fabricantejerome/fabricantejerome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
