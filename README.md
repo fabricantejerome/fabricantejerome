@@ -3,7 +3,7 @@
  - Helping ambitious aspiring web developers and career shifter to build their career.
  - Full Stack Developer 6+ years.
 
- - Check out my [Typeshare](https://typeshare.co/jeromefabricante){:target="_blank" rel="noopener"} to learn more what I write.
+ - Check out my [Typeshare](https://typeshare.co/jeromefabricante) to learn more what I write.
  - Check out my [Medium](https://medium.com/@jeromejfabricante).
 
 ## 🌱 I’m currently learning
