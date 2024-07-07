@@ -13,7 +13,7 @@
 
 ## 🔭 I’m currently working on
  - `Building an audience`
- - `Publishing an short-form content`
+ - `Publishing a short-form content`
  - `Publishing an atomic essay`
 
 ## 📦 Toolbox
